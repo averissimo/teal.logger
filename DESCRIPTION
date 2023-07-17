@@ -16,13 +16,16 @@ Imports:
     lifecycle,
     logger (>= 0.2.0),
     shiny,
-    withr
+    withr,
+    formatters (>= 0.5.0)
 Suggests:
     knitr,
     rmarkdown,
     testthat (>= 2.0)
 VignetteBuilder:
     knitr
+Remotes:
+    insightsengineering/formatters@*release
 RdMacros:
     lifecycle
 Config/Needs/website: insightsengineering/nesttemplate
