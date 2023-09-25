@@ -2,6 +2,10 @@
 title: "Getting started"
 author: "NEST CoreDev Team"
 output: html_vignette
+vignette: >
+  %\VignetteIndexEntry{Getting started}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
 
 ## Introduction
